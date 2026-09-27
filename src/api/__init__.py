@@ -1,0 +1,1 @@
+from .main import app  # noqa: F401  (lets you run: uvicorn src.api:app)
